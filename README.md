@@ -12,6 +12,11 @@
 
 ###
 
+<img align="right" height="155" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -42,10 +47,6 @@
 
 ###
 
-<img align="right" height="155" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/margot-r/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -54,9 +55,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=RajkovicM&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RajkovicM&theme=jolly&hide_border=false)<br/>
-
