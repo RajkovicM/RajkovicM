@@ -1,9 +1,14 @@
-<h1 align="left">Hi, my name is Margot!</h1>
-<h2 align="left">I'm a FrontEnd Software Engineer, from the San Francisco Bay Area</h2>
+###
+
+<h1 align="left">Hi, my name is Margot ‧₊˚❀༉‧₊˚.</h1>
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy"  />
+<p align="center">⋅ ˚₊‧ 𐙚 I'm a FrontEnd Software Engineer from the Bay Area 𐙚 ‧₊˚ ⋅</p>
+
+###
+
+<p align="left">⊹ I graduated from Rensselaer Polytechnic Institute where I received a Bachelor's in Computer Science with a concentration in Systems and Software<br><br>⊹ I'm passionate about creating projects that have a positive social impact through inclusive and meaningful design<br><br>⊹ In my free time I enjoy cooking/baking, being creative, and working out</p>
 
 ###
 
@@ -29,19 +34,17 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/margot-r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/margot.rajkovic/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<img align="right" height="155" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/margot-r/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/margot.rajkovic/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
