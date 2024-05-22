@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">⋅ ˚₊‧ 𐙚 I'm a FrontEnd Software Engineer from the Bay Area 𐙚 ‧₊˚ ⋅</p>
+<p align="center">⋅ ˚₊‧ I'm a FrontEnd Software Engineer from the Bay Area ‧₊˚ ⋅</p>
 
 ###
 
